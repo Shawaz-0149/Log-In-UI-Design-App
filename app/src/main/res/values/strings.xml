@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Home Task</string>
+    <string name="welcome_to_n_wp_420_channel">Welcome to\n WP 420 Channel</string>
+    <string name="download_all_android_and_wordpress_navailable_ui_designs">Download All Android and WordPress\nAvailable UI Designs</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="top">Top</string>
+    <string name="log_in_to_your_account">Log In To Your Account</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="forget_your_password">Forget Your Password?</string>
+    <string name="sign_to_your_account">Sign To Your Account</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="sign_in">Sign In</string>
+</resources>
